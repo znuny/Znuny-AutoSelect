@@ -27,7 +27,7 @@ This package contains the functionality to select the following fields if only o
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
